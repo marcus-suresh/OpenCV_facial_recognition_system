@@ -45,6 +45,10 @@ Please note that the accuracy of facial recognition may vary based on the qualit
 
 Feel free to contribute to this project by expanding the database of known faces or by enhancing the recognition algorithm.
 
+## 📌 Citation
+M.Suresh (2020)
+https://github.com/marcus-suresh 
+
 ## 📄 License
 This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code as per the terms of the license.
 
