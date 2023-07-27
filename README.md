@@ -21,7 +21,7 @@ To achieve this aim, we have developed a Facial Recognition System that uses Ope
 10. Repeat the process for all frames in the input movie.
 11. Compile the new frames into a new video containing a box around the matched face, helping the user understand who is prominently featured.
 
-## 📁 Files
+## 📁 Source Files
 There are two .py files included in this repository:
 1. `**main_facial_recognition.py**`: This is the main facial recognition Python script responsible for detecting faces in the input video and drawing bounding boxes with names for identified world leaders.
 2. `**g20_leaders_faces.py**`: This file contains a small database of vectorized faces belonging to various G20 world leaders. The main script uses this database for face comparison during the recognition process.
