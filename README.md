@@ -32,8 +32,12 @@ To use the Facial Recognition System, follow these steps:
 2. Ensure you have Python 3.6.10 installed on your system.
 3. Create a virtual environment using Python 3.6.10 to avoid dependency conflicts.
 4. Install the required OpenCV package and requisite dependencies using the following command: `pip install opencv-python`
-6. Place the input video (.mp4) you want to process in the "video" sub-directory.
-7. Run the `main_facial_recognition.py` script to start the facial recognition process.
+5. Place the input video (.mp4) you want to process in the "video" sub-directory.
+6. Run the `main_facial_recognition.py` script to start the facial recognition process.
+7. The output is demonstrated below:
+   ![Output](3_output/opencv_results.jpg)
+
+
 
 ## ℹ️ Note
 Please note that the accuracy of facial recognition may vary based on the quality of the input video and the completeness of the database of known faces. Additionally, the tolerance level of 0.5 for face matching can be adjusted to suit your specific use case.
