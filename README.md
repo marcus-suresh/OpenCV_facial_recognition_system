@@ -35,6 +35,7 @@ To use the Facial Recognition System, follow these steps:
 5. Place the input video (.mp4) you want to process in the "video" sub-directory.
 6. Run the `main_facial_recognition.py` script to start the facial recognition process.
 7. The output is demonstrated below:
+
    ![Output](3_output/opencv_results_1.jpg)
 
 
