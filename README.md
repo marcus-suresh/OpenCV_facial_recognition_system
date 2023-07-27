@@ -23,15 +23,17 @@ To achieve this aim, we have developed a Facial Recognition System that uses Ope
 
 ## 📁 Files
 There are two .py files included in this repository:
-1. **main_facial_recognition.py**: This is the main facial recognition Python script responsible for detecting faces in the input video and drawing bounding boxes with names for identified world leaders.
-2. **g20_leaders_faces.py**: This file contains a small database of vectorized faces belonging to various G20 world leaders. The main script uses this database for face comparison during the recognition process.
+1. `**main_facial_recognition.py**`: This is the main facial recognition Python script responsible for detecting faces in the input video and drawing bounding boxes with names for identified world leaders.
+2. `**g20_leaders_faces.py**`: This file contains a small database of vectorized faces belonging to various G20 world leaders. The main script uses this database for face comparison during the recognition process.
 
 ## 🚀 Getting Started
 To use the Facial Recognition System, follow these steps:
 1. Clone this repository to your local machine.
 2. Ensure you have Python 3.6.10 installed on your system.
 3. Create a virtual environment using Python 3.6.10 to avoid dependency conflicts.
-4. Install the required dependencies using the following command:
+4. Install the required OpenCV package and requisite dependencies using the following command:
+  `pip install opencv-python` 
+
 5. Place the input video (.mp4) you want to process in the "video" sub-directory.
 6. Run the `main_facial_recognition.py` script to start the facial recognition process.
 
